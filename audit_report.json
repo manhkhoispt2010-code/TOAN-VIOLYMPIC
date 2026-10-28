@@ -1,0 +1,426 @@
+{
+  "totalRecords": 1105,
+  "totalUniqueIds": 1105,
+  "duplicateIds": [],
+  "roundResults": [
+    {
+      "file": "violympic_l2_vong1.json",
+      "round": 1,
+      "isArray": true,
+      "count": 102,
+      "expectedCount": 102,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_ordering": 1,
+        "game2_matching": 1,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V1-P1",
+          "notes": "Bảng 4x5 ô chứa 20 số"
+        },
+        {
+          "id": "V1-P2",
+          "notes": "Bảng 4x5 ô chứa số và biểu thức"
+        },
+        {
+          "id": "V1-P3-C015",
+          "notes": "Có hình vẽ 3 điểm A, B, C trên đường thẳng"
+        },
+        {
+          "id": "V1-P3-C017",
+          "notes": "Có hình vẽ 4 điểm A, B, C, D trên đường thẳng"
+        },
+        {
+          "id": "V1-P3-C025",
+          "notes": "Hình chữ nhật ABCD chia đôi bởi MN"
+        },
+        {
+          "id": "V1-P3-C026",
+          "notes": "Hình tứ giác ABCD chia làm 3 ô dọc"
+        },
+        {
+          "id": "V1-P3-C045",
+          "notes": "Chữ số được phép lặp lại"
+        },
+        {
+          "id": "V1-P3-C047",
+          "notes": "Hình tam giác đỉnh chung"
+        },
+        {
+          "id": "V1-P3-C064",
+          "notes": "Sách in nhầm nhãn đáp án D thành A"
+        },
+        {
+          "id": "V1-P3-C074",
+          "notes": "Sách in đáp án thiếu nhãn A"
+        },
+        {
+          "id": "V1-P3-C078",
+          "notes": "Sách in lời giải nhầm đơn vị viên và tính nhầm tem"
+        }
+      ],
+      "questionTypes": {
+        "ordering": 1,
+        "matching": 1,
+        "fill_blank": 60,
+        "multiple_choice": 40
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    },
+    {
+      "file": "violympic_l2_vong2_full.json",
+      "round": 2,
+      "isArray": true,
+      "count": 113,
+      "expectedCount": 113,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_matching": 1,
+        "game2_zodiac": 12,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V2-P1-C001",
+          "notes": "Bảng 4x5 ô chứa biểu thức số học"
+        },
+        {
+          "id": "V2-P3-C041",
+          "notes": "Đáp án sách in tên biểu thức"
+        },
+        {
+          "id": "V2-P3-C049",
+          "notes": "Có hình minh họa tam giác lớn chia 4"
+        }
+      ],
+      "questionTypes": {
+        "matching": 1,
+        "fill_blank": 50,
+        "multiple_choice": 62
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    },
+    {
+      "file": "violympic_l2_vong3_full.json",
+      "round": 3,
+      "isArray": true,
+      "count": 111,
+      "expectedCount": 111,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_ordering": 1,
+        "game2_treasure": 10,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V3-P1-C001",
+          "notes": "Bảng 4x5 ô chứa biểu thức"
+        }
+      ],
+      "questionTypes": {
+        "ordering": 1,
+        "fill_blank": 89,
+        "multiple_choice": 21
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    },
+    {
+      "file": "violympic_l2_vong4_full.json",
+      "round": 4,
+      "isArray": true,
+      "count": 111,
+      "expectedCount": 111,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_matching": 1,
+        "game2_bugs": 10,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V4-P1-C001",
+          "notes": "Bảng 4x5 ô ghép 10 cặp giá trị bằng nhau."
+        }
+      ],
+      "questionTypes": {
+        "matching": 1,
+        "multiple_choice": 15,
+        "fill_blank": 95
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    },
+    {
+      "file": "violympic_l2_vong5_full.json",
+      "round": 5,
+      "isArray": true,
+      "count": 111,
+      "expectedCount": 111,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_ordering": 1,
+        "game2_drop": 10,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V5-P1-C001",
+          "notes": "Bảng 4x5 ô chứa biểu thức và số tự nhiên."
+        }
+      ],
+      "questionTypes": {
+        "ordering": 1,
+        "fill_blank": 109,
+        "multiple_choice": 1
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    },
+    {
+      "file": "violympic_l2_vong6_full.json",
+      "round": 6,
+      "isArray": true,
+      "count": 111,
+      "expectedCount": 111,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_matching": 1,
+        "game2_peak": 10,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V6-P1-C001",
+          "notes": "Bảng 4x5 ô"
+        }
+      ],
+      "questionTypes": {
+        "matching": 1,
+        "multiple_choice": 52,
+        "fill_blank": 58
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    },
+    {
+      "file": "violympic_l2_vong7_full.json",
+      "round": 7,
+      "isArray": true,
+      "count": 111,
+      "expectedCount": 111,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_ordering": 1,
+        "game2_bugs": 10,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V7-P1-C001",
+          "notes": "Bảng 4x5 ô chứa biểu thức và số tự nhiên."
+        }
+      ],
+      "questionTypes": {
+        "ordering": 1,
+        "multiple_choice": 10,
+        "fill_blank": 100
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    },
+    {
+      "file": "violympic_l2_vong8_full.json",
+      "round": 8,
+      "isArray": true,
+      "count": 111,
+      "expectedCount": 111,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_matching": 1,
+        "game2_drop": 10,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V8-P1-C001",
+          "notes": "Bảng 4x5 ô ghép 10 cặp giá trị bằng nhau."
+        }
+      ],
+      "questionTypes": {
+        "matching": 1,
+        "multiple_choice": 10,
+        "fill_blank": 100
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    },
+    {
+      "file": "violympic_l2_vong9_full.json",
+      "round": 9,
+      "isArray": true,
+      "count": 113,
+      "expectedCount": 113,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_ordering": 1,
+        "game2_zodiac": 12,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V9-P1-C001",
+          "notes": "Bảng 4x5 ô chứa biểu thức và số tự nhiên."
+        }
+      ],
+      "questionTypes": {
+        "ordering": 1,
+        "multiple_choice": 12,
+        "fill_blank": 100
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    },
+    {
+      "file": "violympic_l2_vong10_full.json",
+      "round": 10,
+      "isArray": true,
+      "count": 111,
+      "expectedCount": 111,
+      "countMatches": true,
+      "missingFieldsCount": 0,
+      "roundMismatches": [],
+      "sections": {
+        "game1_matching": 1,
+        "game2_drop": 10,
+        "leo_doc": 100
+      },
+      "leoDoc": {
+        "count": 100,
+        "minNum": 1,
+        "maxNum": 100,
+        "isContinuous": true,
+        "missingNums": [],
+        "idFormatErrors": []
+      },
+      "unverifiedCount": 0,
+      "notesList": [
+        {
+          "id": "V10-P1-C001",
+          "notes": "Bảng 4x5 ô ghép 10 cặp giá trị bằng nhau."
+        }
+      ],
+      "questionTypes": {
+        "matching": 1,
+        "multiple_choice": 11,
+        "fill_blank": 99
+      },
+      "multipleChoiceIssues": [],
+      "fillBlankIssues": []
+    }
+  ]
+}

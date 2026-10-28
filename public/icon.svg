@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="star" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Rounded Background -->
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  
+  <!-- Math Board Card -->
+  <rect x="56" y="56" width="400" height="400" rx="48" fill="#FFFFFF" opacity="0.95" filter="url(#shadow)"/>
+  
+  <!-- Header Banner -->
+  <path d="M 56 104 Q 56 56 104 56 L 408 56 Q 456 56 456 104 L 456 140 L 56 140 Z" fill="#F59E0B"/>
+  <text x="256" y="112" font-family="'Nunito', sans-serif" font-weight="900" font-size="38" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">VIOLYMPIC 2</text>
+  
+  <!-- Big Friendly Number 2 -->
+  <circle cx="160" cy="270" r="75" fill="#EEF2FF"/>
+  <text x="160" y="305" font-family="'Nunito', sans-serif" font-weight="900" font-size="100" fill="#2563EB" text-anchor="middle">2</text>
+  
+  <!-- Golden Star Badge -->
+  <g transform="translate(330, 240) scale(1.1)">
+    <polygon points="0,-60 18,-18 63,-18 27,9 41,52 0,25 -41,52 -27,9 -63,-18 -18,-18" fill="url(#star)" filter="url(#shadow)"/>
+    <!-- Cute Eyes on Star -->
+    <circle cx="-12" cy="0" r="4.5" fill="#78350F"/>
+    <circle cx="12" cy="0" r="4.5" fill="#78350F"/>
+    <path d="M -8 10 Q 0 16 8 10" stroke="#78350F" stroke-width="3" stroke-linecap="round" fill="none"/>
+  </g>
+  
+  <!-- Math Symbols at Bottom -->
+  <rect x="90" y="380" width="60" height="48" rx="14" fill="#10B981"/>
+  <text x="120" y="414" font-family="'Nunito', sans-serif" font-weight="900" font-size="34" fill="#FFFFFF" text-anchor="middle">+</text>
+  
+  <rect x="175" y="380" width="60" height="48" rx="14" fill="#EC4899"/>
+  <text x="205" y="412" font-family="'Nunito', sans-serif" font-weight="900" font-size="38" fill="#FFFFFF" text-anchor="middle">−</text>
+  
+  <rect x="260" y="380" width="60" height="48" rx="14" fill="#8B5CF6"/>
+  <text x="290" y="414" font-family="'Nunito', sans-serif" font-weight="900" font-size="32" fill="#FFFFFF" text-anchor="middle">×</text>
+  
+  <rect x="345" y="380" width="75" height="48" rx="14" fill="#F59E0B"/>
+  <text x="382" y="414" font-family="'Nunito', sans-serif" font-weight="900" font-size="32" fill="#FFFFFF" text-anchor="middle">=</text>
+</svg>

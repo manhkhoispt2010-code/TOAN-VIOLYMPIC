@@ -1,0 +1,8 @@
+{
+  "name": "Bé vui học Toán – Violympic lớp 2",
+  "description": "Ứng dụng luyện thi Violympic Toán lớp 2 dành cho học sinh tiểu học: sắp xếp số, ghép phép tính, leo dốc 100 câu, hỗ trợ làm bài trên điện thoại và máy tính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
